@@ -1,0 +1,13 @@
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\bin\Debug\netcoreapp3.0\sunrise-sunset.exe
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\obj\Debug\netcoreapp3.0\sunrise-sunset.csprojAssemblyReference.cache
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\obj\Debug\netcoreapp3.0\sunrise-sunset.AssemblyInfoInputs.cache
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\obj\Debug\netcoreapp3.0\sunrise-sunset.AssemblyInfo.cs
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\bin\Debug\netcoreapp3.0\sunrise-sunset.deps.json
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\bin\Debug\netcoreapp3.0\sunrise-sunset.runtimeconfig.json
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\bin\Debug\netcoreapp3.0\sunrise-sunset.runtimeconfig.dev.json
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\bin\Debug\netcoreapp3.0\sunrise-sunset.dll
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\bin\Debug\netcoreapp3.0\sunrise-sunset.pdb
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\obj\Debug\netcoreapp3.0\sunrise-sunset.csproj.CopyComplete
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\obj\Debug\netcoreapp3.0\sunrise-sunset.dll
+C:\Users\Reio\source\repos\sunrise-sunset\sunrise-sunset\obj\Debug\netcoreapp3.0\sunrise-sunset.pdb
